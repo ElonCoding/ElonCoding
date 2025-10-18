@@ -4,7 +4,7 @@
 	<br>
 </div>
 
-**i love code**&nbsp;&nbsp;![](cat-typing.gif)&nbsp;&nbsp;**, unicorns**&nbsp;&nbsp;![](unicorn.gif)**and gaming**&nbsp;&nbsp;![](https://media.gifdb.com/weird-gaming-setup-py4r6pqijfgloy0s.gif)
+**i love code**&nbsp;&nbsp;![](cat-typing.gif)&nbsp;&nbsp;**, unicorns**&nbsp;&nbsp;![](unicorn.gif)**and gaming**&nbsp;&nbsp;![](gaming.gif)
 
 <img src="party-furby.gif" align="right" width="60">
 
