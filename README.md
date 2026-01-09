@@ -55,3 +55,12 @@ and my [latest Linkedin post](https://www.linkedin.com/in/parikshit-sharma-619a0
 ![](counter.gif) ![](badge1.gif) ![](badge2.gif) ![](badge3.png) ![](badge4.gif) ![](badge5.gif) ![](badge6.gif)
 
 ![](flames.gif)
+<div align="center">
+
+🎯 "Code is like humor. When you have to explain it, it's bad."
+
+![Snake animation](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" />
+
+</div>
