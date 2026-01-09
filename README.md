@@ -13,9 +13,11 @@
 ![](under-construction.gif)
 
 <br>
-and my [latest Linkedin post](https://www.linkedin.com/in/parikshit-sharma-619a0a33a/)) ![](hot.gif)
+
+and my [Linkedin Profile](https://www.linkedin.com/in/parikshit-sharma-619a0a33a/) ![](hot.gif)
 
 <br>
+
 💻 TECH STACK
 
 <div align="center">
