@@ -17,8 +17,7 @@
 and my [latest Linkedin post](https://www.linkedin.com/in/parikshit-sharma-619a0a33a/)) ![](hot.gif)
 
 <br>
----
-### 💻 TECH STACK
+💻 TECH STACK
 
 <div align="center">
 
@@ -51,9 +50,6 @@ and my [latest Linkedin post](https://www.linkedin.com/in/parikshit-sharma-619a0
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 </div>
-
----
-
 <br>
 
 ![](counter.gif) ![](badge1.gif) ![](badge2.gif) ![](badge3.png) ![](badge4.gif) ![](badge5.gif) ![](badge6.gif)
