@@ -55,7 +55,6 @@ and my [Linkedin Profile](https://www.linkedin.com/in/parikshit-sharma-619a0a33a
 
 ![](counter.gif) ![](badge1.gif) ![](badge2.gif) ![](badge3.png) ![](badge4.gif) ![](badge5.gif) ![](badge6.gif)
 
-![](flames.gif)
 <div align="center">
 
 🎯 "Code is like humor. When you have to explain it, it's bad."
