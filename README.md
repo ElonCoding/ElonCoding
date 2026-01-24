@@ -4,7 +4,7 @@
 	<br>
 </div>
 
-**I love code**&nbsp;&nbsp;![](cat-typing.gif)&nbsp;&nbsp;**, unicorns**&nbsp;&nbsp;![](unicorn.gif)**and gaming**&nbsp;&nbsp;![](gaming.gif)
+**I love code**  ![](cat-typing.gif)  **, unicorns**  ![](unicorn.gif)  **and gaming**  <img src="gaming.gif" width="60" height="60" />
 
 <img src="party-furby.gif" align="right" width="60">
 
@@ -12,13 +12,15 @@
 
 ![](under-construction.gif)
 
-<br>
+<br><br>
 
-and my [Linkedin Profile](https://www.linkedin.com/in/parikshit-sharma-619a0a33a/) ![](hot.gif)
+and my <a href="https://www.linkedin.com/in/parikshit-sharma-619a0a33a/">LinkedIn Profile</a>
+<img src="hot.gif" width="30">
 
-<br>
+<br><br>
 
-💻 TECH STACK
+
+<h2>💻 TECH STACK</h2>
 
 <div align="center">
 
@@ -51,9 +53,19 @@ and my [Linkedin Profile](https://www.linkedin.com/in/parikshit-sharma-619a0a33a
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 </div>
+<div align="center">
+
 <br>
 
-![](counter.gif) ![](badge1.gif) ![](badge2.gif) ![](badge3.png) ![](badge4.gif) ![](badge5.gif) ![](badge6.gif)
+<img src="counter.gif">
+<img src="badge1.gif">
+<img src="badge2.gif">
+<img src="badge3.png">
+<img src="badge4.gif">
+<img src="badge5.gif">
+<img src="badge6.gif">
+
+</div>
 
 <div align="center">
 
