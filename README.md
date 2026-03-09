@@ -25,7 +25,7 @@
 
 * 🎓 **CSE Undergraduate (2028)**
 * 🏫 Baderia Global Institute of Engineering and Management
-* 📍 Madhya Pradesh, India
+* 📍 Jabalpur, Madhya Pradesh, India
 * 🚀 Passionate about **AI, Full-Stack Development, and Cloud**
 * 🎮 Love **coding, gaming, and building cool projects**
 
