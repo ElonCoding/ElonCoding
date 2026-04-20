@@ -31,7 +31,7 @@ passion    : Building things that matter from scratch
 status     : 🟢 Open to collaborate
 ```
 
-<img align="right" src="https://user-images.githubusercontent.com/74038190/212281763-e6ecd7ef-c4aa-45b6-a97c-f33f6bb592bd.gif" width="300"/>
+
 
 - 🚀 Crafting **full-stack applications** with modern frameworks
 - 🤖 Deep diving into **AI & Machine Learning** pipelines
@@ -42,10 +42,11 @@ status     : 🟢 Open to collaborate
 <br clear="right"/>
 
 ---
+<img align="right" src="https://user-images.githubusercontent.com/74038190/212281763-e6ecd7ef-c4aa-45b6-a97c-f33f6bb592bd.gif" width="300"/>
 
 ## `🛠 Tech Arsenal`
 
-<div align="center">
+<div align="left">
 
 ### ◈ Core Stack
 
@@ -141,16 +142,6 @@ status     : 🟢 Open to collaborate
 <div align="center">
 
 ![Snake animation](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg)
-
-</div>
-
----
-
-## `🏆 GitHub Trophies`
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=ElonCoding&theme=matrix&no-frame=true&no-bg=true&margin-w=6&row=1"/>
 
 </div>
 
