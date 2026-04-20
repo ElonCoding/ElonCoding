@@ -158,6 +158,8 @@ status     : 🟢 Open to collaborate
 ╚══════════════════════════════════════════════════════════════════╝
 ```
 
+<div align="center">
+
 <img src="https://komarev.com/ghpvc/?username=ElonCoding&label=PROFILE+VIEWS&color=f0c040&style=for-the-badge&labelColor=0b0e1a"/>
 
 <br/><br/>
