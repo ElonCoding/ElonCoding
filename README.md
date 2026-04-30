@@ -117,6 +117,16 @@ status     : 🟢 Open to collaborate
 
 ---
 
+## `🏆 GitHub Trophies`
+
+<div align="center">
+
+![](https://github-profile-trophy.vercel.app/?username=ElonCoding&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+</div>
+
+---
+
 ## `🧠 Dev Wisdom`
 
 <div align="center">
