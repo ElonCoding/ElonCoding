@@ -9,7 +9,7 @@ jobs:
   generate:
     runs-on: ubuntu-latest
     steps:
-      - uses: Platane/snk@v3
+      - uses: Platane/snk@v4
         with:
           github_user_name: ElonCoding
           outputs: |
