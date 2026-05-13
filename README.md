@@ -152,7 +152,7 @@ status     : 🟢 Open to collaborate
 
 <div align="center">
 
-![Snake animation](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg)
+![snake gif](https://github.com/ElonCoding/ElonCoding/blob/output/github-contribution-grid-snake-dark.svg)
 
 </div>
 
