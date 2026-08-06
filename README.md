@@ -160,21 +160,9 @@ status     : 🟢 Open to collaborate
 
 <div align="center">
 
-```
-╔══════════════════════════════════════════════════════════════════╗
-║                                                                  ║
-║    ✦  Thanks for visiting — you made it to the end!  ✦          ║
-║       Drop a ⭐ if this profile inspired you at all              ║
-║                                                                  ║
-╚══════════════════════════════════════════════════════════════════╝
-```
-
-<div align="center">
-
 <img src="https://komarev.com/ghpvc/?username=ElonCoding&label=PROFILE+VIEWS&color=f0c040&style=for-the-badge&labelColor=0b0e1a"/>
 
 <br/><br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1040,50:0f1e3a,100:0b0e1a&height=130&section=footer&fontColor=f0c040"/>
-
-</div>
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73928744/182041587-527d010a-80d3-4b57-bd99-c2be13c1a516.png" />
+</p>
