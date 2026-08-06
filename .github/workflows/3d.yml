@@ -1,0 +1,34 @@
+name: Generate 3D Contribution Skyline
+
+on:
+  schedule:
+    - cron: '0 0 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v3
+
+      - name: Generate Skyline
+        uses: Platane/snk@v3
+        with:
+          github_user_name: ElonCoding
+          outputs: |
+            output/profile-3d-contrib/profile-night-rainbow.svg
+
+      - name: Commit and Push SVG
+        env:
+          TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          git config --global user.name 'ElonCoding'
+          git config --global user.email 'sharmaparikshit405@gmail.com'
+          git add output || echo "Nothing to add"
+          git commit -m "🛰️ Update 3D Skyline graph" || echo "Nothing to commit"
+          git remote set-url origin https://x-access-token:${TOKEN}@github.com/${{ github.repository }}.git
+          git push origin HEAD:main
