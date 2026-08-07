@@ -1,34 +1,35 @@
-name: Generate 3D Contribution Skyline
+name: Generate 3D Contribution Graphs
 
 on:
-  schedule:
-    - cron: '0 0 * * *'
   workflow_dispatch:
+  schedule:
+    - cron: "0 0 * * *"
 
 permissions:
   contents: write
 
 jobs:
-  build:
+  generate:
     runs-on: ubuntu-latest
+
     steps:
-      - name: Checkout repo
-        uses: actions/checkout@v3
+      - name: Checkout repository
+        uses: actions/checkout@v4
 
-      - name: Generate Skyline
-        uses: Platane/snk@v3
-        with:
-          github_user_name: ElonCoding
-          outputs: |
-            output/profile-3d-contrib/profile-night-rainbow.svg
-
-      - name: Commit and Push SVG
+      - name: Generate 3D contribution graphs
+        uses: yoshi389111/github-profile-3d-contrib@0.7.1
         env:
-          TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.METRICS_TOKEN }}
+          USERNAME: ElonCoding
+          MAX_REPOS: 500
+
+      - name: Commit generated files
         run: |
-          git config --global user.name 'ElonCoding'
-          git config --global user.email 'sharmaparikshit405@gmail.com'
-          git add output || echo "Nothing to add"
-          git commit -m "🛰️ Update 3D Skyline graph" || echo "Nothing to commit"
-          git remote set-url origin https://x-access-token:${TOKEN}@github.com/${{ github.repository }}.git
-          git push origin HEAD:main
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          git add .
+          git diff --cached --quiet || git commit -m "chore: update 3D contribution graphs"
+
+      - name: Push changes
+        run: git push
