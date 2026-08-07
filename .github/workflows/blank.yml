@@ -1,39 +1,52 @@
-name: generate breakout svg
+name: Generate Breakout SVG
 
 on:
-  schedule:
-    - cron: "0 */24 * * *"
   workflow_dispatch:
+  schedule:
+    - cron: "0 0 * * *"
+
+permissions:
+  contents: write
 
 jobs:
   generate-svg:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+
     permissions:
       contents: write
-    runs-on: ubuntu-latest
-    timeout-minutes: 5
 
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
+        with:
+          persist-credentials: true
 
-      - name: generate SVG
+      - name: Generate SVG
         uses: cyprieng/github-breakout@v1.0.0
         with:
           github_username: ${{ github.repository_owner }}
 
-      - name: Move generated SVGs
+      - name: Verify output
+        run: |
+          ls -R
+          ls output || true
+
+      - name: Move SVGs
         run: |
           mkdir -p images
           mv output/light.svg images/breakout-light.svg
           mv output/dark.svg images/breakout-dark.svg
 
-      - name: Configure git
+      - name: Configure Git
         run: |
           git config user.name "github-actions[bot]"
-          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
 
-      - name: Commit and push SVGs
+      - name: Commit changes
         run: |
-          git add images/breakout-light.svg images/breakout-dark.svg
-          git commit -m "chore: update breakout SVGs" || echo "No changes to commit"
-          git push
+          git add images/
+          git diff --cached --quiet || git commit -m "chore: update breakout SVGs"
+
+      - name: Push changes
+        run: git push origin HEAD
