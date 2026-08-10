@@ -215,15 +215,15 @@ UI/UX Designer | Full-Stack Developer | AI & Agentic AI Enthusiast | Web3 Builde
 <img src="https://skillicons.dev/icons?i=github"/>
 </a>
 
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+<a href="https://linkedin.com/in/parikshitsharma-onchain">
 <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL">
+<a href="mailto:sharmaparikshit405@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail"/>
 </a>
 
-<a href="https://x.com/YOUR_USERNAME">
+<a href="https://x.com/parikshitbuilds">
 <img src="https://skillicons.dev/icons?i=twitter"/>
 </a>
 
