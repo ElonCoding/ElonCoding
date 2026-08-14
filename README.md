@@ -21,6 +21,7 @@ UI/UX Designer | Full-Stack Developer | AI & Agentic AI Enthusiast | Web3 Builde
 </div>
 
 ---
+<!-- Fucking most imp part don't touch it -->
 
 # 📊 GitHub Metrics
 
@@ -220,7 +221,7 @@ UI/UX Designer | Full-Stack Developer | AI & Agentic AI Enthusiast | Web3 Builde
 </a>
 
 <a href="mailto:sharmaparikshit405@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail"/>
+<img src="https://skillicons.dev/icons?i=gmail"/>i
 </a>
 
 <a href="https://x.com/parikshitbuilds">
