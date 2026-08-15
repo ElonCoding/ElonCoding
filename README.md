@@ -221,7 +221,7 @@ UI/UX Designer | Full-Stack Developer | AI & Agentic AI Enthusiast | Web3 Builde
 </a>
 
 <a href="mailto:sharmaparikshit405@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail"/>i
+<img src="https://skillicons.dev/icons?i=gmail"/>
 </a>
 
 <a href="https://x.com/parikshitbuilds">
