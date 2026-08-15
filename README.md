@@ -188,12 +188,13 @@ UI/UX Designer | Full-Stack Developer | AI & Agentic AI Enthusiast | Web3 Builde
 
 ---
 
-# 📈 GitHub Stats
+## `🧊 Profile Summary Card`
 
-<p align="center">
-<img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=ElonCoding&theme=tokyonight"/>
+<div align="center">
 
-</p>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ElonCoding&theme=2077"/>
+
+</div>
 
 ---
 
