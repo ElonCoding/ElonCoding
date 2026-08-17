@@ -1,24 +1,124 @@
-<!-- Banner -->
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
 
+<!--                              HERO HEADER                                -->
 
-<h1 align="center">Hi 👋 I'm Parikshit Sharma</h1>
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0f172a,50:111827,100:312e81&text=PARIKSHIT%20SHARMA&fontColor=ffffff&fontSize=46&fontAlignY=38&desc=BUILDING%20AT%20THE%20INTERSECTION%20OF%20AI%20%C3%97%20WEB3%20%C3%97%20FULL-STACK&descAlignY=58&descSize=14&animation=fadeIn" width="100%"/>
+</p>
 
 <h3 align="center">
-UI/UX Designer • Full-Stack Developer • Web3 Enthusiast • Hackathon Winner
+  ⚡ Builder &nbsp;•&nbsp; 🎨 UI/UX Designer &nbsp;•&nbsp; 💻 Full-Stack Developer &nbsp;•&nbsp; ⛓️ Web3 Engineer
 </h3>
 
 <p align="center">
-Building AI × Web3 × Full-Stack Applications with beautiful user experiences.
+  <strong>Turning ambitious ideas into real products.</strong><br/>
+  I design, engineer, and ship AI-powered, decentralized, and full-stack experiences.
 </p>
+
+<p align="center">
+  <a href="https://github.com/ElonCoding">
+    <img src="https://img.shields.io/badge/GitHub-ElonCoding-111827?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://linkedin.com/in/parikshitsharma-onchain">
+    <img src="https://img.shields.io/badge/LinkedIn-Parikshit%20Sharma-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://x.com/parikshitbuilds">
+    <img src="https://img.shields.io/badge/X-@parikshitbuilds-000000?style=for-the-badge&logo=x&logoColor=white"/>
+  </a>
+  <a href="mailto:sharmaparikshit405@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
+
+<br/>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=900&color=8B5CF6&center=true&vCenter=true&width=750&lines=Building+AI+%C3%97+Web3+Products;Designing+Interfaces+People+Love+Using;Shipping+Full-Stack+Applications;Competing%2C+Winning+%26+Building+at+Hackathons;Always+Learning.+Always+Building." />
+</p>
+
+<br/>
+
+<table align="center">
+<tr>
+<td align="center" width="180">
+
+### 🏆
+
+**Hackathons**
+
+**5+ Wins**
+
+</td>
+
+<td align="center" width="180">
+
+### 🚀
+
+**Finals**
+
+**16+ Grand Finals**
+
+</td>
+
+<td align="center" width="180">
+
+### 💻
+
+**Focus**
+
+**AI × Web3**
+
+</td>
+
+<td align="center" width="180">
+
+### 🎨
+
+**Craft**
+
+**Design × Code**
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<p align="center">
+  <img src="https://img.shields.io/github/followers/ElonCoding?label=FOLLOWERS&style=for-the-badge&color=111827" />
+  <img src="https://img.shields.io/github/stars/ElonCoding?label=STARS&style=for-the-badge&color=f59e0b" />
+</p>
+
+<br/>
+
+<p align="center">
+  <i>"Don't just learn technology. Build with it."</i>
+</p>
+
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
+
+<!--                              ABOUT ME                                   -->
+
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
+
+## 🚀 About Me
+
+<div align="center">
+
+I'm a **UI/UX Designer, Full-Stack Developer, AI & Web3 Builder** focused on turning ideas into products.
+
+I enjoy working across the entire stack — from **design systems and interactive interfaces** to **APIs, databases, AI agents, smart contracts, and cloud infrastructure**.
+
+My goal is simple:
+
+**Build things that are technically strong, visually exceptional, and genuinely useful.**
+
+</div>
 
 ---
 
-## 🚀 About Me
-<div align="center">
-	
-UI/UX Designer | Full-Stack Developer | AI & Agentic AI Enthusiast | Web3 Builder | Multiple National Hackathon Winner & Finalist | Always building products that solve real-world problems.
-
-</div>
 
 ---
 <!-- Fucking most imp part don't touch it -->
