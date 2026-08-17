@@ -78,7 +78,7 @@ UI/UX Designer | Full-Stack Developer | AI & Agentic AI Enthusiast | Web3 Builde
 
 ### ⚪ Gray
 
-<img src="./profile-3d-contrib/profile-gray.svg">
+<img src="./profile-3d-contrib/profile-south-season-animate.svg">
 
 </details>
 
