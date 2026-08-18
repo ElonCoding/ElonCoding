@@ -22,10 +22,6 @@ jobs:
         uses: lowlighter/metrics@v3.34
 
         with:
-          # ============================================================
-          # CORE CONFIGURATION
-          # ============================================================
-
           token: ${{ secrets.METRICS_TOKEN }}
           user: ElonCoding
           filename: github-metrics.svg
@@ -33,53 +29,21 @@ jobs:
           template: classic
           config_timezone: Asia/Kolkata
 
-          # Core sections
           base: header, activity, community, repositories
 
-
-          # ============================================================
-          # CONTRIBUTION CALENDAR
-          # ============================================================
-
+          # Contribution calendar
           plugin_isocalendar: yes
           plugin_isocalendar_duration: half-year
 
-
-          # ============================================================
-          # MOST USED LANGUAGES
-          # ============================================================
-
+          # Most-used languages
           plugin_languages: yes
-
-          # Explicitly display the most-used languages
           plugin_languages_sections: most-used
-
-          # Show both repository size and percentage
           plugin_languages_details: bytes-size, percentage
-
-          # Maximum number of languages
           plugin_languages_limit: 6
 
-
-          # ============================================================
-          # RECENT CODING HABITS
-          # ============================================================
-
-          plugin_habits: yes
-          plugin_habits_days: 14
-
-
-          # ============================================================
-          # STARRED TOPICS
-          # ============================================================
-
+          # Topics
           plugin_topics: yes
           plugin_topics_limit: 15
 
-
-          # ============================================================
-          # DEBUGGING
-          # ============================================================
-
-          # Make plugin failures visible in GitHub Actions logs
-          plugins_errors_fatal: yes
+          # Don't kill the entire workflow because one plugin fails
+          plugins_errors_fatal: no
