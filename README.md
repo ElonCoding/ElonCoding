@@ -292,7 +292,7 @@ My goal is simple:
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ElonCoding&theme=2077"/>
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ElonCoding&theme=2077&animation=load&name=Parikshit+Sharma)
 
 </div>
 
