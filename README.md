@@ -109,7 +109,7 @@
 
 I'm a **UI/UX Designer, Full-Stack Developer, AI & Web3 Builder** focused on turning ideas into products.
 
-I enjoy working across the entire stack — from **design systems and interactive interfaces** to **APIs, databases, AI agents, smart contracts, and cloud infrastructure**.
+I enjoy working across the entire stack - from **design systems and interactive interfaces** to **APIs, databases, AI agents, smart contracts, and cloud infrastructure**.
 
 My goal is simple:
 
