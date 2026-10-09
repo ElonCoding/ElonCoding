@@ -1,8 +1,6 @@
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
-
-<!--                              HERO HEADER                                -->
-
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
+<!-- ╔══════════════════════════════════════════════════════════════════════╗ -->
+<!-- ║                          HERO · HEADER                             ║ -->
+<!-- ╚══════════════════════════════════════════════════════════════════════╝ -->
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0f172a,50:111827,100:312e81&text=PARIKSHIT%20SHARMA&fontColor=ffffff&fontSize=46&fontAlignY=38&desc=BUILDING%20AT%20THE%20INTERSECTION%20OF%20AI%20%C3%97%20WEB3%20%C3%97%20FULL-STACK&descAlignY=58&descSize=14&animation=fadeIn" width="100%"/>
@@ -97,13 +95,12 @@
   <i>"Don't just learn technology. Build with it."</i>
 </p>
 
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
+<!-- ╔══════════════════════════════════════════════════════════════════════╗ -->
+<!-- ║                          ABOUT · ME                                ║ -->
+<!-- ╚══════════════════════════════════════════════════════════════════════╝ -->
 
-<!--                              ABOUT ME                                   -->
-
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
-
-## 🚀 About Me
+<details open>
+<summary><h2>🚀 About Me</h2></summary>
 
 <div align="center">
 
@@ -117,21 +114,28 @@ My goal is simple:
 
 </div>
 
----
+</details>
 
-
----
+<!-- ╔══════════════════════════════════════════════════════════════════════╗ -->
+<!-- ║                      GITHUB · METRICS                              ║ -->
+<!-- ╚══════════════════════════════════════════════════════════════════════╝ -->
 <!-- Fucking most imp part don't touch it -->
 
-# 📊 GitHub Metrics
+<details open>
+<summary><h2>📊 GitHub Metrics</h2></summary>
 
 <p align="center">
 <img src="./github-metrics.svg" width="100%">
 </p>
 
----
+</details>
 
-# 🌃 3D Contribution Skyline
+<!-- ╔══════════════════════════════════════════════════════════════════════╗ -->
+<!-- ║                    3D · CONTRIBUTION · SKYLINE                      ║ -->
+<!-- ╚══════════════════════════════════════════════════════════════════════╝ -->
+
+<details open>
+<summary><h2>🌃 3D Contribution Skyline</h2></summary>
 
 <p align="center">
 <img src="./profile-3d-contrib/profile-night-rainbow.svg" width="100%">
@@ -182,46 +186,57 @@ My goal is simple:
 
 </details>
 
+</details>
+
 <br clear="right"/>
 
----
+<!-- ╔══════════════════════════════════════════════════════════════════════╗ -->
+<!-- ║                         TECH · STACK                               ║ -->
+<!-- ╚══════════════════════════════════════════════════════════════════════╝ -->
+
+<details open>
+<summary><h2>💻 Tech Stack</h2></summary>
+
 <img align="right" src="https://user-images.githubusercontent.com/74038190/212281763-e6ecd7ef-c4aa-45b6-a97c-f33f6bb592bd.gif" width="300"/>
 
-# 💻 Tech Stack
-
-## 🎨 Design & Prototyping
+<details open>
+<summary><b>🎨 Design & Prototyping</b></summary>
 
 <p>
 <img src="https://skillicons.dev/icons?i=figma,photoshop,illustrator,xd"/>
 </p>
 
----
+</details>
 
-## 🌐 Frontend Development
+<details open>
+<summary><b>🌐 Frontend Development</b></summary>
 
 <p>
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,vite,threejs,redux"/>
 </p>
 
----
+</details>
 
-## ⚙️ Backend Development
+<details open>
+<summary><b>⚙️ Backend Development</b></summary>
 
 <p>
 <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,python"/>
 </p>
 
----
+</details>
 
-## 🗄️ Databases & Storage
+<details open>
+<summary><b>🗄️ Databases & Storage</b></summary>
 
 <p>
 <img src="https://skillicons.dev/icons?i=mongodb,firebase,supabase,postgres,mysql"/>
 </p>
 
----
+</details>
 
-## 🤖 AI / Machine Learning
+<details open>
+<summary><b>🤖 AI / Machine Learning</b></summary>
 
 <p>
 <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv"/>
@@ -234,9 +249,10 @@ My goal is simple:
 <img src="https://img.shields.io/badge/Agentic_AI-7B61FF?style=for-the-badge"/>
 </p>
 
----
+</details>
 
-## ⛓️ Blockchain & Web3
+<details open>
+<summary><b>⛓️ Blockchain & Web3</b></summary>
 
 <p>
 <img src="https://skillicons.dev/icons?i=solidity"/>
@@ -252,25 +268,28 @@ My goal is simple:
 <img src="https://img.shields.io/badge/Filecoin-0090FF?style=for-the-badge&logo=filecoin&logoColor=white"/>
 </p>
 
----
+</details>
 
-## ☁️ Cloud & DevOps
+<details open>
+<summary><b>☁️ Cloud & DevOps</b></summary>
 
 <p>
 <img src="https://skillicons.dev/icons?i=docker,githubactions,git,github,vercel,cloudflare"/>
 </p>
 
----
+</details>
 
-## 🛠️ Development Tools
+<details open>
+<summary><b>🛠️ Development Tools</b></summary>
 
 <p>
 <img src="https://skillicons.dev/icons?i=vscode,webstorm,postman,npm,bun,pnpm"/>
 </p>
 
----
+</details>
 
-## ⚡ Automation & Productivity
+<details open>
+<summary><b>⚡ Automation & Productivity</b></summary>
 
 <p>
 <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white"/>
@@ -278,17 +297,25 @@ My goal is simple:
 <img src="https://img.shields.io/badge/ServiceNow-81B441?style=for-the-badge&logo=servicenow&logoColor=white"/>
 </p>
 
----
+</details>
 
-## 🖥️ Programming Languages
+<details open>
+<summary><b>🖥️ Programming Languages</b></summary>
 
 <p>
 <img src="https://skillicons.dev/icons?i=cpp,c,java,python,js,ts,bash"/><img src="https://skillicons.dev/icons?i=flutter"/>
 </p>
 
----
+</details>
 
-## `🧊 Profile Summary Card`
+</details>
+
+<!-- ╔══════════════════════════════════════════════════════════════════════╗ -->
+<!-- ║                    PROFILE · SUMMARY · CARD                        ║ -->
+<!-- ╚══════════════════════════════════════════════════════════════════════╝ -->
+
+<details open>
+<summary><h2>🧊 Profile Summary Card</h2></summary>
 
 <div align="center">
 
@@ -296,9 +323,14 @@ My goal is simple:
 
 </div>
 
----
+</details>
 
-# 🎮 GitHub Breakout
+<!-- ╔══════════════════════════════════════════════════════════════════════╗ -->
+<!-- ║                      GITHUB · BREAKOUT                             ║ -->
+<!-- ╚══════════════════════════════════════════════════════════════════════╝ -->
+
+<details open>
+<summary><h2>🎮 GitHub Breakout</h2></summary>
 
 <p align="center">
 <picture>
@@ -307,9 +339,14 @@ My goal is simple:
 </picture>
 </p>
 
----
+</details>
 
-# 🌐 Connect With Me
+<!-- ╔══════════════════════════════════════════════════════════════════════╗ -->
+<!-- ║                        CONNECT · WITH · ME                         ║ -->
+<!-- ╚══════════════════════════════════════════════════════════════════════╝ -->
+
+<details open>
+<summary><h2>🌐 Connect With Me</h2></summary>
 
 <p align="center">
 
@@ -328,6 +365,10 @@ My goal is simple:
 <a href="https://x.com/parikshitbuilds">
 <img src="https://skillicons.dev/icons?i=twitter"/>
 </a>
+
+</p>
+
+</details>
 
 ---
 
